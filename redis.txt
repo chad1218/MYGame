@@ -1,0 +1,10 @@
+php 瑞的安裝
+
+git clone https://www.github.com/phpredis/phpredis.git
+cd phpredis
+phpize && ./configure && make && sudo make install
+extension=redis.so in your php.ini
+
+check working or not
+
+php -r "if (new Redis() == true){ echo \"\r\n OK \r\n\"; }"
