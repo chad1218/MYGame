@@ -8,3 +8,9 @@ extension=redis.so in your php.ini
 check working or not
 
 php -r "if (new Redis() == true){ echo \"\r\n OK \r\n\"; }"
+
+Mac 安裝 redis
+brew install redis
+
+啟動 redis
+redis-server
