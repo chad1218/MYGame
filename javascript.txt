@@ -1,0 +1,24 @@
+將一個函數轉換成3個函數  x=f(a,b,c)  
+h=g(a)
+i=h(b)
+x=i(c)
+或是改成順序的呼叫
+x=g(a)(b)(c)
+此方法呼為 Currying 
+
+
+下面的練習 這個函數有兩個參數
+
+const add = (x, y) => x + y
+add(2, 3) //=> 5
+
+
+將他改成 arrow functions
+const add = x => y => x + y
+
+傳統函數的寫法
+const add = function (x) {
+  return function (y) {
+    return x + y
+  }
+}
