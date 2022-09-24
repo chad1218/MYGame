@@ -1,0 +1,86 @@
+SEO 
+React Course - Advanced - SEO
+https://www.youtube.com/watch?v=wWeG8rWkMsM
+
+
+
+https://www.youtube.com/watch?v=mN3P_rv8ad4
+
+https://www.youtube.com/watch?v=sOhLV-lfgjs
+
+https://www.youtube.com/watch?v=EQStBJU5AZM
+
+
+css
+
+https://ithelp.ithome.com.tw/articles/10187063
+
+
+
+Responsive dropdown menu using by html css javascript
+https://www.youtube.com/watch?v=vb_u7mj84Tc
+
+
+Simple Responsive Dropdown Navigation Menu Using Pure HTML And CSS Only
+https://www.youtube.com/watch?v=bk3Y4heVdFs
+
+
+
+react multi-level-dropdown
+https://github.com/fireship-io/229-multi-level-dropdown
+
+
+A comprehensive guide to flex box sizing 
+https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-sizing--cms-31948?_ga=2.173720547.11657009.1663363903-379946507.1661345541
+
+
+react taillwindcss
+https://www.npmjs.com/package/tailwind-styled-components
+
+
+
+
+Creating responsive and adaptive layouts with React and Styled-Components
+
+https://dev.to/carloscne/creating-responsive-and-adaptive-layouts-with-react-and-styled-components-1ghi
+
+
+利用 Styled System 建立一個更好的 UI 元件庫！
+
+https://www.cythilya.tw/2019/11/30/build-a-better-ui-component-library-with-styled-system/
+
+
+
+Responsive Bottom Navigation Bar Using HTML CSS & JavaScript | Dot Bar Navigation
+https://www.youtube.com/watch?v=DjaNof-HFyY
+
+
+https://www.petanikode.com/bootstrap-bottom-navbar/
+
+
+
+Creating responsive and adaptive layouts with React and Styled-Components
+https://dev.to/carloscne/creating-responsive-and-adaptive-layouts-with-react-and-styled-components-1ghi
+https://github.com/carlos-cne/layoutsArticle
+
+https://scalablecss.com/styled-components-quickstart-guide/
+
+
+
+How to Create a Responsive Bottom Navigation Menu Bar in HTML CSS and JavaScript
+https://www.youtube.com/watch?v=rCFCeRnLVZg
+
+
+React Navbar + Recursive Dropdowns | Redux, Styled Components, Routing
+https://www.youtube.com/watch?v=V_Sl-KhFnDw
+
+
+Formatting 可以排版系統
+Prettier
+Beautify css/sass/scss/less
+Code Spell Checker: 
+
+
+
+使用 styled-components 加速 React 开发
+https://zhuanlan.zhihu.com/p/28876652
