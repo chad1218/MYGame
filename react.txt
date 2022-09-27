@@ -76,3 +76,7 @@ https://zhuanlan.zhihu.com/p/28876652
 
 相關程式庫
 https://swiperjs.com/react#styles
+
+
+How to deploy Node server on Apache2
+https://dev.to/tikam02/how-to-deploy-node-server-on-apache2-23d7
