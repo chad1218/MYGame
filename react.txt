@@ -80,3 +80,6 @@ https://swiperjs.com/react#styles
 
 How to deploy Node server on Apache2
 https://dev.to/tikam02/how-to-deploy-node-server-on-apache2-23d7
+
+Create a CSS mixin in React using styled-components
+https://egghead.io/lessons/react-create-a-css-mixin-in-react-using-styled-components
