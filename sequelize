@@ -1,0 +1,7 @@
+npm init
+npm install -g sequelize-cli cli
+npm install --save sequelize mysql2
+
+
+
+sequelize db:migrate
