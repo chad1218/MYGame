@@ -14,3 +14,13 @@ brew install redis
 
 啟動 redis
 redis-server
+
+起始
+brew services start redis
+
+brew services info redis
+
+brew services stop redis
+
+
+npm i --save balanced-match
