@@ -23,3 +23,11 @@ const Index = () => (
 )
 
 export default Index
+
+加入turbo pack
+
+https://turbo.build/repo/docs/getting-started/add-to-project
+
+yarn add turbo --dev
+
+yarn turbo dev
