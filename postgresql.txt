@@ -1,0 +1,8 @@
+mysql_upgrade -u root -p
+
+安裝
+brew install postgresql
+
+設定database
+initdb --locale=C -E UTF-8 /usr/local/var/postgres
+
