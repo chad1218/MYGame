@@ -1,3 +1,7 @@
 npx prisma generate
 
 npx prisma migrate deploy  將產生的sql 語法更新到資料庫
+
+yarn add -D prisma
+
+npx prisma init 建立.env file  及prisma資料夾
