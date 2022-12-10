@@ -5,3 +5,17 @@ npx prisma migrate deploy  將產生的sql 語法更新到資料庫
 yarn add -D prisma
 
 npx prisma init 建立.env file  及prisma資料夾
+
+
+npx prisma migrate dev --name "init" 產生遷移檔
+
+
+開發中如再次修改資料庫，執行 prisma migrate dev 的時候會自動執行
+
+package.json 加入 prisma.seed 
+
+{
++  "prisma": {
++    "seed": "ts-node prisma/seed.ts"
++  },
+}
