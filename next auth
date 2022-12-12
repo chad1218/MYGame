@@ -1,0 +1,2 @@
+yarn add next-auth
+yarn add @next-auth/prisma-adapter
