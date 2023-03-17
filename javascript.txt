@@ -33,10 +33,14 @@ https://ithelp.ithome.com.tw/articles/10306578
 
 let scope = 0;
 
-|| 當scope 是
-0,“”,NaN,null,undefined
-就會轉到
-
 console.log(scope || "默認值"); // 默認值
 console.log(scope ?? "默認值"); // 0
+
+
+|| 當scope 是 0,“”,NaN,null,undefined
+就會轉到默認值
+
+?? 當scope 是 null,undefined
+就會轉到默認值
+
 
