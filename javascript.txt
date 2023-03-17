@@ -27,7 +27,7 @@ const add = function (x) {
   }
 }
 
-
+空值合併運算子 nullish coalescing operator
 https://ithelp.ithome.com.tw/articles/10306578
 
 
