@@ -44,3 +44,12 @@ console.log(scope ?? "默認值"); // 0
 就會轉到默認值
 
 
+( ?. ) Optional Chaining
+當直接存取屬性值如果是未定義會產生TypeError exception
+當加上?就可以不用判斷屬性值是否存在，如果不存在就會直接回傳undefined
+
+
+
+
+
+
