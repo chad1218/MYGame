@@ -3,3 +3,10 @@ composer create-project laravel/laravel=8.* posty 指定版本
 composer require spatie/laravel-permission
 
 php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
+
+
+修改資料
+php artisan make:migration add_username_to_users_table
+
+建立Controller
+ php artisan make:controller Auth\\RegisterController
