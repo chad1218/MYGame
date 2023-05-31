@@ -10,3 +10,10 @@ php artisan make:migration add_username_to_users_table
 
 建立Controller
  php artisan make:controller Auth\\RegisterController
+
+
+{{route('register')}}
+
+php artisan make:controller  DashboardController
+
+php artisan make:controller  Auth\\LoginController
