@@ -22,3 +22,6 @@ php artisan make:model Post
 
 建立 migration
 php artisan make:migration create_listings_table
+
+建立database seed
+php artisan db:seed
