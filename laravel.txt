@@ -34,3 +34,17 @@ composer require laravel/ui
 
 php artisan breeze:install 安裝 breeze
 
+安裝laravel
+composer global require laravel/installer
+
+建立一個新的project
+laravel new livewire-projects
+
+php artisan key:generate
+
+
+composer require livewire/livewire
+
+php artisan make:livewire Counter
+ 
+
