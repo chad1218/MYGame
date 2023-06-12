@@ -46,5 +46,18 @@ php artisan key:generate
 composer require livewire/livewire
 
 php artisan make:livewire Counter
+
+npm install
+
+npm install -D tailwindcss postcss autoprefixer
+
+composer require laravel/ui --dev
+
+php artisan ui bootstrap
+
+php artisan ui bootstrap --auth
+
+npm install
+
  
 
