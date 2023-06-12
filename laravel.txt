@@ -59,5 +59,27 @@ php artisan ui bootstrap --auth
 
 npm install
 
+
+php artisan make:livewire Calculator
+
+npm install -D @tailwindcss/forms
+
+
+tailwind.config.js 設定檔
+
+export default {
+  content: [
+    "./resources/**/*.blade.php",
+    "./resources/**/*.js",
+    "./resources/**/*.vue",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [require('@tailwindcss/forms')],
+}
+
+
+
  
 
