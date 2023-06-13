@@ -83,5 +83,7 @@ export default {
 php artisan make:livewire Todolist
 
 
+https://codenotfound.dev/article/laravel-localization-setup-multi-languages-system
+
  
 
