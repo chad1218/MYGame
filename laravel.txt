@@ -83,8 +83,17 @@ export default {
 php artisan make:livewire Todolist
 
 
-https://codenotfound.dev/article/laravel-localization-setup-multi-languages-system
+
 
 產生精簡版css
 npx tailwindcss -o ./public/css/app.css --minify
+
+
+cookies 多語系
+
+https://codenotfound.dev/article/laravel-localization-setup-multi-languages-system
+
+php artisan make:middleware LanguageMiddleware
+
+
 
