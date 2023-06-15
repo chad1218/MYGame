@@ -100,4 +100,7 @@ app_path(); // /var/www/example-app/app
 路徑位置
 
 
+zip file 下載
+https://www.itsolutionstuff.com/post/how-to-create-zip-file-and-download-in-laravel-10example.html
+
 
