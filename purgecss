@@ -1,0 +1,2 @@
+ https://www.purgecss.cn/CLI 
+ purgecss --css ./assets/css/style.min.css --content index.html --output ./assets/css/new.css
