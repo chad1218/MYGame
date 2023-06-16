@@ -126,4 +126,12 @@ class DatabaseSeeder extends Seeder
 seeder 用法
 
 
+artisan schema:dump
+
+載入 sql 方法 
+$path=public_path('../database/seeders/schema.sql');
+$this->command->info($path);
+$sql = file_get_contents($path);
+DB::unprepared($sql);
+載入 sql 方法 
 
