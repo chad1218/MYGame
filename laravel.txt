@@ -103,4 +103,27 @@ app_path(); // /var/www/example-app/app
 zip file 下載
 https://www.itsolutionstuff.com/post/how-to-create-zip-file-and-download-in-laravel-10example.html
 
+seeder 用法
+php artisan make:seeder AdminUserSeeder
+單獨執行 seeder
+php artisan db:seed --class=AdminUserSeeder
+
+ public function run()
+ {
+     User::create([
+         'name' => 'Hardik',
+         'email' => 'admin@gmail.com',
+         'password' => bcrypt('123456'),
+     ]);
+ }
+class DatabaseSeeder extends Seeder
+{
+  public function run()
+   {
+       $this->call(AdminUserSeeder::class);
+   }
+}
+seeder 用法
+
+
 
