@@ -135,3 +135,5 @@ $sql = file_get_contents($path);
 DB::unprepared($sql);
 載入 sql 方法 
 
+$user=App\Models\Employees::find(1);
+
