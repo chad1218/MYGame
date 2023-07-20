@@ -1,3 +1,7 @@
+php artisan config:clear 清除config catch
+php artisan cache:clear
+
+
 composer require barryvdh/laravel-debugbar  debug 資訊
 
 composer create-project laravel/laravel=8.* posty 指定版本
