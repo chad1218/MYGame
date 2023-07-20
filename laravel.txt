@@ -1,5 +1,22 @@
+--------- 自動加載檔案
+composer 檔案中修改
+"autoload": {
+    "files": [
+        "app/helpers.php", 
+        ...... // 加入其他要自動加載的檔案
+    ],   
+}
+composer dump-autoload 更新自動加載
+--------- 自動加載檔案
+
+
+-------------timezone參數
+timezone設定位於 config/app.php 中的 timezone參數
+預設為 'timezone' => 'UTC',
+改成 'timezone' => 'Asia/Taipei',
 php artisan config:clear 清除config catch
 php artisan cache:clear
+-------------timezone參數
 
 
 composer require barryvdh/laravel-debugbar  debug 資訊
