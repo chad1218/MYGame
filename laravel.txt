@@ -1,3 +1,5 @@
+php artisan make:controller Admin//AttributeController -r
+
 --------- 自動加載檔案
 composer 檔案中修改
 "autoload": {
