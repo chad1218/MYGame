@@ -1,3 +1,4 @@
+php artisan make:model Setting -mcs
 
 php artisan make:controller Admin//AttributeController -r
 
