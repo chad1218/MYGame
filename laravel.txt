@@ -164,3 +164,10 @@ DB::unprepared($sql);
 
 $user=App\Models\Employees::find(1);
 
+
+清除資料
+php artisan migrate:refresh
+
+清除資料加 seed
+php artisan migrate:refresh --seed
+
