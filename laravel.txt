@@ -1,5 +1,8 @@
 php artisan make:model Setting -mcs
 
+
+php artisan make:model Description -mcs
+
 php artisan db:seed --class=CategorySeeder
 
 php artisan db:seed --class=ProductSeeder
