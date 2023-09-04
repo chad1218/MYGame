@@ -1,3 +1,6 @@
+加入laravel sql query log
+composer require overtrue/laravel-query-logger -vvv
+
 php artisan make:model Setting -mcs
 
 
