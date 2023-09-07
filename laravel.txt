@@ -3,8 +3,11 @@ composer require overtrue/laravel-query-logger -vvv
 
 php artisan make:model Setting -mcs
 
+php artisan make:seed SkuSeeder
 
 php artisan make:model Description -mcs
+
+php artisan db:seed --class=AttributeSeeder
 
 php artisan db:seed --class=CategorySeeder
 
