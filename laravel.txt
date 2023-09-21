@@ -1,3 +1,8 @@
+php composer.phar require intervention/image 安裝 intervent image
+
+php artisan vendor:publish --provider="Intervention\Image\ImageServiceProviderLaravelRecent"
+
+
 加入laravel sql query log
 composer require overtrue/laravel-query-logger -vvv
 
