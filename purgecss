@@ -1,2 +1,6 @@
  https://www.purgecss.cn/CLI 
  purgecss --css ./assets/css/style.min.css --content index.html --output ./assets/css/new.css
+
+"app/**/*.php"
+
+ purgecss --css ./public/assets/css/style.min.css --content ./resources/views/**/*.php --output ./public/assets/css/new18.css
