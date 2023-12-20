@@ -1,3 +1,6 @@
+
+
+
 npm i gulp@4 -g
 
 php composer.phar require intervention/image 安裝 intervent image
@@ -25,6 +28,9 @@ php artisan db:seed --class=ProductSeeder
 php artisan db:seed --class=MenuSeeder
 
 php artisan migrate:refresh --seed
+
+//修改欄位
+php artisan make:migration add_address_to_users
 
 php artisan make:controller Admin//AttributeController -r
 
