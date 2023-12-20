@@ -1,6 +1,4 @@
 
-
-
 npm i gulp@4 -g
 
 php composer.phar require intervention/image 安裝 intervent image
