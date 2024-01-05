@@ -1,3 +1,4 @@
+ php artisan vendor:publish --tag=laravel-mail
 
 npm i gulp@4 -g
 
