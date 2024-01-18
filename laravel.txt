@@ -1,3 +1,6 @@
+node 版本請安裝v14 版本
+nvm use 14  gulp style
+
 php artisan make:mail singup 建立一個 mail 
 
 php artisan vendor:publish --tag=laravel-mail
