@@ -5,10 +5,25 @@ npm install babel-loader @babel/core @babel/preset-env -D
 
 npm install --save-dev sass-loader node-sass webpack
 
+npm install @material/web   
+
+npm install mini-css-extract-plugin -D
+過程使用的套件：
+npm install css-loader -D
+
+
 npm i webpack-cli -g
 
 npm i webpack-dev-server -g
 
 npm install --save fabric
 
+npm install --save jquery
+
+
+npm init -y
+npm i -D clean-webpack-plugin html-webpack-plugin
+npm i -D ts-loader typescript
+npm i -D webpack webpack-cli webpack-dev-server
+npm i -D webpack-dev-server webpack-merge
 
