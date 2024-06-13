@@ -1,0 +1,5 @@
+npm install --global gulp-cli
+
+npm install sass gulp-sass --save-dev
+
+npm install --save-dev gulp-autoprefixer
