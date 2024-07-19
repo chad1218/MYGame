@@ -2,6 +2,7 @@ mysql_upgrade -u root -p
 Sql 資料表格 join 方法
 https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
 
+https://learnku.com/articles/48792 // SKU說明
 
 SKU資料表格設計
 
