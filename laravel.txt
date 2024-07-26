@@ -17,6 +17,8 @@ composer require overtrue/laravel-query-logger -vvv
 
 php artisan make:model Menu -m
 
+php artisan make:model ProductAttribute -m
+
 php artisan make:model Banner -mcs
 
 php artisan make:model Setting -mcs
