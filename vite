@@ -1,3 +1,4 @@
+加入jquery
 npm i @rollup/plugin-inject --save-dev
 
 
@@ -13,3 +14,9 @@ npm i @rollup/plugin-inject --save-dev
     
     ],
   })
+
+
+
+application.js
+import $ from 'jquery';
+window.$ = $;
